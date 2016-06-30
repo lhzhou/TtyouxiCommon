@@ -1,6 +1,6 @@
 {
-  "name": "ttgame/package/common",
-  "description": "微信 SDK for Laravel",
+  "name": "ttgame/common",
+  "description": "天天游戏公用包",
   "keywords": ["zhoulin package common"],
   "require": {
     "php": ">=5.3.0"
