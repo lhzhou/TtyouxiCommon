@@ -1,0 +1,15 @@
+"name": "zhoulin/common",
+    "description": "zhoulin package common ",
+    "license": "MIT",
+    "keywords": [""],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "zhoulin",
+            "email": "3692291@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+  }  
