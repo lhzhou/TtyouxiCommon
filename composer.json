@@ -5,7 +5,8 @@
   "description": "天天游戏公用包",
   "keywords": ["zhoulin package common"],
   "require": {
-    "php": ">=5.3.0"
+    "php": ">=5.3.0",
+    "ttgame/common": "dev-master"
   },
 
   "license": "MIT",
