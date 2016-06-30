@@ -1,5 +1,7 @@
 {
   "name": "ttgame/common",
+  "minimum-stability": "dev",
+
   "description": "天天游戏公用包",
   "keywords": ["zhoulin package common"],
   "require": {
